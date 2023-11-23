@@ -3,7 +3,7 @@
   ## 📌 Dev Log 📌
   [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=yeahzee0421)](https://portfolio0421.tistory.com)
   <br>
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=portfolio0421&postId=122)](https://portfolio0421.tistory.com)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=portfolio0421&postId=123)](https://portfolio0421.tistory.com)
   
   
   ## 🔨 Tech Stack 🔨
