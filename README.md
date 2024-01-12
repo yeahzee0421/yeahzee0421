@@ -1,12 +1,12 @@
 <div align="left">
 
-  ## 📌 Dev Log 📌
+  ## 📌 Log 📌
   [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=yeahzee0421)](https://portfolio0421.tistory.com)
   <br>
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=portfolio0421&postId=123)](https://portfolio0421.tistory.com)
+  <!--[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=portfolio0421&postId=123)](https://portfolio0421.tistory.com) -->
   
   
-  ## 🔨 Tech Stack 🔨
+  ## 🔨 Stack 🔨
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
       <!-- Backend -->
   <!--     <p><strong>Backend</strong></p>
